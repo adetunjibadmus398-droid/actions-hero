@@ -20,7 +20,7 @@ jobs:
 
 
   goodbye:
-    runs-on: ubunut-latest
+    runs-on: ubuntu-latest
     steps:
       - name: goodbye world
         run: echo "Goodbye world"
